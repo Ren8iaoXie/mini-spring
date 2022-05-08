@@ -5,5 +5,3 @@ package com.xrb.service
  * @date 2022/5/8 9:18 上午
  *
  */
-interface UserService {
-}
